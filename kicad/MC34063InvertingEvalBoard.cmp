@@ -1,0 +1,269 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 5/10/2015 12:59:55 AM
+
+BeginCmp
+TimeStamp = /554EEA9A;
+Reference = C1;
+ValeurCmp = 100uF;
+IdModule  = MedCap2;
+EndCmp
+
+BeginCmp
+TimeStamp = /554EEAA7;
+Reference = C2;
+ValeurCmp = 1uF;
+IdModule  = ANYSSCAP_2_059B_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /554E7D8F;
+Reference = C3;
+ValeurCmp = 100uF;
+IdModule  = MedCap2;
+EndCmp
+
+BeginCmp
+TimeStamp = /554EE7CF;
+Reference = C4;
+ValeurCmp = 1uF;
+IdModule  = ANYSSCAP_2_059B_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /554E7B1E;
+Reference = C5;
+ValeurCmp = TIM;
+IdModule  = CERCAP_2_059B_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /554E8173;
+Reference = C6;
+ValeurCmp = 100uF;
+IdModule  = MedCap2;
+EndCmp
+
+BeginCmp
+TimeStamp = /554EE86A;
+Reference = C7;
+ValeurCmp = 1uF;
+IdModule  = ANYSSCAP_2_059B_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /554EE908;
+Reference = C8;
+ValeurCmp = 100uF;
+IdModule  = MedCap2;
+EndCmp
+
+BeginCmp
+TimeStamp = /554EE915;
+Reference = C9;
+ValeurCmp = 1uF;
+IdModule  = ANYSSCAP_2_059B_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /554E80C5;
+Reference = D1;
+ValeurCmp = 1N5819;
+IdModule  = DIODE_1A_069A_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554EEEE6;
+Reference = FB1;
+ValeurCmp = FERRITE_BEAD;
+IdModule  = FERRITE_AXIAL_04_069A;
+EndCmp
+
+BeginCmp
+TimeStamp = /554EEFE5;
+Reference = FB2;
+ValeurCmp = FERRITE_BEAD;
+IdModule  = FERRITE_AXIAL_04_069A;
+EndCmp
+
+BeginCmp
+TimeStamp = /554EEB61;
+Reference = L1;
+ValeurCmp = 1uH;
+IdModule  = R_AXIAL_0W25_059A_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554E8161;
+Reference = L2;
+ValeurCmp = 100uH;
+IdModule  = R_AXIAL_0W25_059A_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554F0143;
+Reference = L3;
+ValeurCmp = 100uH;
+IdModule  = R_AXIAL_0W25_059A_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554F0149;
+Reference = L4;
+ValeurCmp = 100uH;
+IdModule  = R_AXIAL_0W25_059A_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554F0150;
+Reference = L5;
+ValeurCmp = 100uH;
+IdModule  = R_AXIAL_0W25_059A_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554F02FB;
+Reference = L6;
+ValeurCmp = 100uH;
+IdModule  = R_AXIAL_0W25_059A_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554F0301;
+Reference = L7;
+ValeurCmp = 100uH;
+IdModule  = R_AXIAL_0W25_059A_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554F0307;
+Reference = L8;
+ValeurCmp = 100uH;
+IdModule  = R_AXIAL_0W25_059A_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554EE9BF;
+Reference = L9;
+ValeurCmp = 1uH;
+IdModule  = R_AXIAL_0W25_059A_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554E7D5E;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = TERMINAL_BLOCK_2_5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /554E818C;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = TERMINAL_BLOCK_2_5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /554EF413;
+Reference = R1;
+ValeurCmp = 1;
+IdModule  = R_AXIAL_0W25_059A_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554EF401;
+Reference = R2;
+ValeurCmp = 1;
+IdModule  = R_AXIAL_0W25_059A_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554EF407;
+Reference = R3;
+ValeurCmp = 1;
+IdModule  = R_AXIAL_0W25_059A_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554EF40D;
+Reference = R4;
+ValeurCmp = 1;
+IdModule  = R_AXIAL_0W25_059A_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554E7EDB;
+Reference = R5;
+ValeurCmp = 1;
+IdModule  = R_AXIAL_0W25_059A_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554E7EA3;
+Reference = R6;
+ValeurCmp = 1;
+IdModule  = R_AXIAL_0W25_059A_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554E7EBD;
+Reference = R7;
+ValeurCmp = 1;
+IdModule  = R_AXIAL_0W25_059A_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554E7ECC;
+Reference = R8;
+ValeurCmp = 1;
+IdModule  = R_AXIAL_0W25_059A_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554E832A;
+Reference = R9;
+ValeurCmp = R2;
+IdModule  = R_AXIAL_0W25_059A_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554E8339;
+Reference = R10;
+ValeurCmp = R1;
+IdModule  = R_AXIAL_0W25_059A_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554EF244;
+Reference = TP1;
+ValeurCmp = TEST;
+IdModule  = TEST_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /554EF236;
+Reference = TP2;
+ValeurCmp = TEST;
+IdModule  = TEST_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /554EF228;
+Reference = TP3;
+ValeurCmp = TEST;
+IdModule  = TEST_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /554EF1E7;
+Reference = TP4;
+ValeurCmp = TEST;
+IdModule  = TEST_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /554E7B0E;
+Reference = U1;
+ValeurCmp = MC34063;
+IdModule  = DIP8_059Bi_PL;
+EndCmp
+
+EndListe
